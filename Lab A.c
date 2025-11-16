@@ -66,6 +66,6 @@ printf("The number %d is EVEN.\n", num);
 printf("The number %d is ODD.\n", num);
 }
 
-
+printf("LAB B update test.\n");
     return 0;
 }
