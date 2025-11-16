@@ -65,7 +65,7 @@ printf("The number %d is EVEN.\n", num);
 } else {
 printf("The number %d is ODD.\n", num);
 }
-
+printf("Update from branch1.\n");
 printf("LAB B update test.\n");
     return 0;
 }
